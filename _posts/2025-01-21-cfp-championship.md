@@ -33,19 +33,19 @@ College football season is over, and the Ohio State Buckeyes have been crowned 2
 
 Here's the list of champions over the years:
 
-2009 - Alabama
-2010 - Auburn
-2011 - LSU
-2012 - Notre Dame
-2013 - Florida State
-2014 - Florida State
-2015 - Alabama
-2016 - Alabama
-2017 - UCF
-2018 - Clemson
-2019 - LSU
-2020 - Alabama
-2021 - Georgia
-2022 - Georgia
-2023 - Michigan
-2024 - Ohio State
+2009 - Alabama  
+2010 - Auburn  
+2011 - LSU  
+2012 - Notre Dame  
+2013 - Florida State  
+2014 - Florida State  
+2015 - Alabama  
+2016 - Alabama  
+2017 - UCF  
+2018 - Clemson  
+2019 - LSU  
+2020 - Alabama  
+2021 - Georgia  
+2022 - Georgia  
+2023 - Michigan  
+2024 - Ohio State  
